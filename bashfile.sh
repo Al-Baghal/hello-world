@@ -8,3 +8,5 @@ done
 
 new
 test
+
+print "fruit"
