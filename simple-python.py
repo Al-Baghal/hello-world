@@ -2,7 +2,7 @@ import sys,os,string
 
 print "hello world!"
 
-for i in range(1,20):
+for i in range(1,100):
     print i
 
 
@@ -15,6 +15,6 @@ working
 
 t
 
-added this to branch B
+added this to branch B (20+80=100)
 
-added this second line again after first push
+added this second line again after first push (.....happy programming - Error)
