@@ -11,4 +11,4 @@ for j in {1..20}; do
 done
 
 echo "Enter a number?"
-echo "Sorry, we cannot save your number in a txt file."
+echo "Sorry, we cannot save your number in a txt files."
