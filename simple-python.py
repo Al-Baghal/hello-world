@@ -2,7 +2,7 @@ import sys,os,string
 
 print "hello world!"
 
-for i in range(1,10):
+for i in range(1,1000):
     print i
 
 
