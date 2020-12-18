@@ -9,3 +9,4 @@ test
 print "fruit"
 
 echo "commit A"
+echo "commit B"
