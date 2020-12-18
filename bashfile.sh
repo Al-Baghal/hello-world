@@ -8,4 +8,4 @@ test
 
 print "fruit"
 
-echo "this is added to branchC"
+echo "commit 1"
