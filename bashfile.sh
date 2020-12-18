@@ -8,4 +8,4 @@ test
 
 print "fruit"
 
-echo "commit 1"
+echo "commit A"
