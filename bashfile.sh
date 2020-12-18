@@ -8,4 +8,7 @@ test
 
 print "fruit"
 
-echo "this is added to branchC"
+echo "commit A"
+echo "commit B"
+echo "commit C"
+echo "commit D"
